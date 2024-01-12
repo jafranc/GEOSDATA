@@ -1,0 +1,20 @@
+The mesh given here is not mandatory for the benchmark study but is only a suggestion.
+
+Files:
+vertices_johansen.dat - contains the vertex numbers and positions.
+elements_johansen.dat -  contains the elements
+boundary_faces_johansen.dat - contains the quadrilateral faces of all boundary elements
+
+Mesh Info:
+Element type: hexahedron
+No. of vertices:	62800
+No. of elements:	54756
+No. of boundary faces:	15678
+
+Min. X[m]:  0
+Max. X[m]:  9606.69
+Min. Y[m]:  0
+Max. Y[m]:  8896.49
+Min. Z[m]: -3238.20
+Max. Z[m]: -2506.14
+
